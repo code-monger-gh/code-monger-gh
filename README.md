@@ -2,6 +2,8 @@
 
 # Code Monger 🛠️
 
+![Code Monger](https://content.red-badger.com/hs-fs/hubfs/Github_Blog%20(1)%20(1).gif?width=900&height=507&name=Github_Blog%20(1)%20(1).gif)
+
 Welcome to **Code Monger**—a collection of my coding projects, snippets, and experiments. This repo showcases my work and exploration in various technologies.
 
 ## 📁 What's Inside?
